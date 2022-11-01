@@ -185,3 +185,6 @@ SELECT
 ;
 
 DROP TABLE IF EXISTS booltest;
+
+
+
