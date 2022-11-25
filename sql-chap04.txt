@@ -1,6 +1,7 @@
 -- 02 JOIN
 -- test.db
 
+
 -- join example tables, left and right
 CREATE TABLE left ( id INTEGER, description TEXT );
 CREATE TABLE right ( id INTEGER, description TEXT );
